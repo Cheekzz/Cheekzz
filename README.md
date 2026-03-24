@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da Cheekz 😁
+## Bem-vindo(a) ao perfil da Cheekz ✨
 
  <div>
    <a href="https://github.com/Cheekzz">
